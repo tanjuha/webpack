@@ -1,0 +1,14 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import 'fonts.css';
+
+body {
+  background-color: rgb(94, 119, 204);
+  font-family: 'Lato';
+}
+h2{
+  text-align: center;
+}
+
+p{
+  font-family: 'Inconsolata';
+}
